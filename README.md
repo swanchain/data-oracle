@@ -4,6 +4,11 @@ Data Oracle is a data provider DAO aiming at offer Chainlink Oracle service for 
 
 Our v1 release provides the Filecoin data info available on FEVM network.
 
+The Data Oracle provide the following fuctions:
+- Data on chain proof
+- Data price feed
+- Node operator of data validation
+
 Some previous work can be found here:
 
 https://github.com/filswan/flink
